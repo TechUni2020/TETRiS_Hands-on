@@ -10,3 +10,5 @@ btn.onclick = function click() {
     console.log(arr);
   }
 };
+
+console.log("aa");
